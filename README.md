@@ -8,6 +8,10 @@ The roadmap was created using the **RICE prioritization framework** to evaluate 
 
 ---
 
+My CareerLaunch Feature Roadmap is live in Notion: https://app.notion.com/p/67d8a42b19b84c9c809d5a7417ec9e29
+
+---
+
 ## 🎯 Objectives
 
 - Prioritize product features
